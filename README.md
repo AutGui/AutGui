@@ -23,5 +23,5 @@ Random game developer from Portugal, not the best, not the worst.
 <img height="32" width="32" src="http://www.rw-designer.com/icon-image/18835-256x256x32.png" />
 
 ### Stats
-<br>
+
 ![AutGui's GitHub stats](https://github-readme-stats.vercel.app/api?username=AutGui&show_icons=true&theme=radical) 
