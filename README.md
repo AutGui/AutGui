@@ -24,4 +24,4 @@ Random game developer from Portugal, not the best, not the worst.
 
 ### Stats
 
-![AutGui's GitHub stats](https://github-readme-stats.vercel.app/api?username=AutGui&show_icons=true&theme=radical) 
+![AutGui's GitHub stats](https://github-readme-stats.vercel.app/api?username=AutGui&show_icons=true&theme=shadow_red) 
