@@ -2,7 +2,7 @@
 
 Random game developer from Portugal, not the best, not the worst.
 
-***(Things are ranked by knowlage)***
+***(Things are ranked by knowledge)***
 <br>
 
 ### Programming Languages:
